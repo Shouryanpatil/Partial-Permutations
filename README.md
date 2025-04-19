@@ -45,7 +45,7 @@ python partial_permutations.py
 
 ---
 
-## 📂 Files
+## Files
 - `partial_permutations.py` — Main script to compute partial permutations.
 - `README.md` — Explanation of the problem and usage instructions.
 
@@ -53,6 +53,6 @@ python partial_permutations.py
 
 
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
 
